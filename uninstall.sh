@@ -1,6 +1,5 @@
 #!/bin/bash
 # uninstall.sh - 完全卸载简洁现代网站
-# 作者：Qwen
 
 set -e
 
