@@ -1,8 +1,5 @@
 #!/bin/bash
 # install.sh - 一键部署简洁现代网站（含监控展示页）
-# 要求：以普通用户（如 newxanadu）运行，非 root
-# 作者：Qwen
-# 仓库：https://github.com/yourname/website-monitor-deploy
 
 set -e
 
